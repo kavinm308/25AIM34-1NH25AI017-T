@@ -9,7 +9,7 @@ output of q1:
 output of q2:
 <img width="535" height="587" alt="image" src="https://github.com/user-attachments/assets/61ca9337-17ce-4f71-b22d-1c10ac33924c" />
 
-
+   MANUAL VERIFICATION:
 # Q1: Manual Verification of 8-bit 2's Complement Addition
 
 ## (a) 25 + (+18)
